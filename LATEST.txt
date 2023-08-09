@@ -1,0 +1,365 @@
+[19:46:52] [Client thread/INFO]: [CHAT] 游戏将在2秒后开始！
+[19:46:53] [Client thread/INFO]: [CHAT] 游戏将在1秒后开始！
+[19:46:54] [Client thread/INFO]: [CHAT] 本局游戏应用队伍颜色主题: 东方Project
+[19:46:54] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:46:54] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:46:54] [Client thread/INFO]: [CHAT]                      床の战争
+[19:46:54] [Client thread/INFO]: [CHAT] 
+[19:46:54] [Client thread/INFO]: [CHAT]    保护你的床并摧毁敌人的床。收集铁锭，金锭，绿宝石和钻石
+[19:46:54] [Client thread/INFO]: [CHAT]           来购买升级装备物品，使自身和队伍变得更强。
+[19:46:54] [Client thread/INFO]: [CHAT] 
+[19:46:54] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:46:54] [Client thread/INFO]: [CHAT] 游戏即将开始！ 
+[19:46:54] [Client thread/INFO]: [CHAT] 本局游戏已启用事件_(:з」∠)_:
+[19:46:54] [Client thread/INFO]: [CHAT] 无限火力 所有资源生成速度x2!
+[19:46:54] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:46:54] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:46:55] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:46:55] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:46:56] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722
+[19:47:03] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §fA?
+[19:47:04] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7bili_linyi §a> §f?
+[19:47:08] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7minecraftmc22 §a> §f?
+[19:47:09] [Client thread/ERROR]: Item entity 163 has no item?!
+[19:47:12] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722给队长啊
+[19:47:15] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7minecraftmc22 §a> §f但是我拒绝
+[19:47:15] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7bili_linyi §a> §f亚瑟组队抽风了
+[19:47:16] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7我真需要
+[19:47:17] [Client thread/INFO]: [CHAT] §9[团队]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §7喵o喵
+[19:47:18] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝#瑾年绝恋醉流苏§e步入永夜之黑暗！
+[19:47:19] [Client thread/INFO]: [CHAT] §e?§e雾雨黄AsongA§e在跳跃前忘记了他的信仰！
+[19:47:20] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f4人咋还随机啊
+[19:47:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818441333
+[19:47:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:47:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:47:21] [Client thread/INFO]: Free: 4215152960 (4215.15296MB)
+[19:47:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818441333
+[19:47:21] [Client thread/INFO]: [CHAT] #瑾年绝恋醉流苏断开连接！
+[19:47:21] [Client thread/INFO]: [CHAT] 你的队友断开了连接，但他仍然有机会重新加入！
+[19:47:22] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7你m
+[19:47:38] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722
+[19:47:38] [Client thread/INFO]: [CHAT] §e?§e雾雨黄YdxoxbY§e一失足成千古恨！
+[19:47:46] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722给队长啊
+[19:47:52] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7minecraftmc22 §a> §f但是我拒绝
+[19:47:56] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7zou
+[19:47:57] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e在跳跃前忘记了他的信仰！
+[19:47:58] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:47:58] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:47:58] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:47:58] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:48:03] [Client thread/INFO]: [CHAT] 无敌时间 6 秒，3秒后如攻击，无敌时间将消失！
+[19:48:03] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:48:09] [Client thread/ERROR]: Item entity 530 has no item?!
+[19:48:13] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7minecraftmc22 §a> §f但是我拒绝
+[19:48:16] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝AvengerFG§e在跳跃前忘记了他的信仰！
+[19:48:16] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §fn m
+[19:48:18] [Client thread/INFO]: [CHAT] 
+不能刷屏哦 (〃'▽'〃)
+
+
+[19:48:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818501379
+[19:48:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:48:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:48:21] [Client thread/INFO]: Free: 4220467840 (4220.46784MB)
+[19:48:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818501379
+[19:48:22] [Client thread/ERROR]: Item entity 603 has no item?!
+[19:48:32] [Client thread/INFO]: [CHAT] §a对YdxoxbY§a造成了§c?§4[3.0§4]§a伤害，他还剩§c?§4[16.3§4]§b§l▊M
+[19:48:32] [Client thread/INFO]: [CHAT] §a对YdxoxbY§a造成了§c?§4[1.7§4]§a伤害，他还剩§c?§4[14.6§4]§b§l▊M
+[19:48:33] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:48:33] [Client thread/INFO]: [CHAT] 
+[19:48:33] [Client thread/INFO]: [CHAT] 雾雨黄 的床被 xingbeng 挖爆！
+[19:48:33] [Client thread/INFO]: [CHAT] 
+[19:48:33] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:48:36] [Client thread/INFO]: [CHAT] minecraftmc22 取得首杀！
+[19:48:36] [Client thread/INFO]: [CHAT] §e?§e雾雨黄YdxoxbY§e被§9?§9咲夜蓝minecraftmc22§e丢下虚空！§c[§l最终击杀§c]
+[19:48:39] [Client thread/INFO]: [CHAT] §9[团队]§6[?191]§f§7§9AvengerFG §8> §7??
+[19:48:40] [Client thread/INFO]: [CHAT] §e?§e雾雨黄AsongA§e被§c?§c灵梦红bili_linyi§e用§7[§e火球§7]§e射入虚空！§7(8.89米)§c[§l最终击杀§c]
+[19:48:40] [Client thread/INFO]: [CHAT] §c?§c灵梦红xingbeng§e被§e?§e雾雨黄AsongA§e狠狠地踹下虚空！
+[19:48:43] [Client thread/ERROR]: Item entity 747 has no item?!
+[19:48:43] [Client thread/ERROR]: Item entity 747 has no item?!
+[19:48:43] [Client thread/ERROR]: Item entity 747 has no item?!
+[19:48:43] [Client thread/ERROR]: Item entity 747 has no item?!
+[19:48:46] [Client thread/INFO]: [CHAT] bili_linyi 双杀 - Double Kill！
+[19:48:46] [Client thread/INFO]: [CHAT] §e?§e雾雨黄hxc1818§e被§c?§c灵梦红bili_linyi§e制裁！§c[§l最终击杀§c]
+[19:48:49] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:48:49] [Client thread/INFO]: [CHAT] 
+[19:48:49] [Client thread/INFO]: [CHAT] 雾雨黄 凉了！  挖床者： xingbeng
+[19:48:49] [Client thread/INFO]: [CHAT] 
+[19:48:49] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:48:49] [Client thread/INFO]: [CHAT] bili_linyi 大杀特杀 - Killing Spree！
+[19:48:49] [Client thread/INFO]: [CHAT] §e?§e雾雨黄jdhbda§e被§c?§c灵梦红bili_linyi§e狠狠拍死！§c[§l最终击杀§c]
+[19:48:53] [Client thread/INFO]: [CHAT] §6[全局]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7
+[19:48:54] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e步入永夜之黑暗！
+[19:48:55] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:48:55] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:48:55] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:48:55] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:48:55] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝hugugiko§e被§9?§9咲夜蓝hugugiko§e用§7[§e火球§7]§e射入虚空！§7(0.00米)
+[19:48:57] [Client thread/INFO]: [CHAT] §6[全局]§6[?367]§f§b§l?游戏主播§7§cbili_linyi §8> §7
+[19:48:59] [Client thread/INFO]: [CHAT] §9[团队]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §76
+[19:49:00] [Client thread/INFO]: [CHAT] 无敌时间 6 秒，3秒后如攻击，无敌时间将消失！
+[19:49:00] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:49:06] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722谢谢我
+[19:49:10] [Client thread/INFO]: [CHAT] §9[团队]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §7喵o喵
+[19:49:15] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722给队长啊
+[19:49:17] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §722给队长
+[19:49:17] [Client thread/INFO]: [CHAT] §9[团队]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §7举报了
+[19:49:18] [Client thread/INFO]: [CHAT] AvengerFG购买磨刀石
+[19:49:21] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7厉害
+[19:49:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818561384
+[19:49:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:49:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:49:21] [Client thread/INFO]: Free: 4113701944 (4113.701944MB)
+[19:49:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818561384
+[19:49:42] [Client thread/INFO]: [CHAT] §9[团队]§6[?191]§f§7§9AvengerFG §8> §7??
+[19:49:43] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e步入永夜之黑暗！
+[19:49:44] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:49:44] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:49:44] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:49:44] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:49:44] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝hugugiko§e被§9?§9咲夜蓝hugugiko§e用§7[§e火球§7]§e射入虚空！§7(0.00米)
+[19:49:47] [Client thread/INFO]: [CHAT] §6[全局]§6[?367]§f§b§l?游戏主播§7§cbili_linyi §8> §76
+[19:49:48] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7毫无意义
+[19:49:49] [Client thread/INFO]: [CHAT] 无敌时间 6 秒，3秒后如攻击，无敌时间将消失！
+[19:49:49] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:49:53] [Client thread/INFO]: [CHAT] hugugiko, hxc1818
+[19:49:54] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §e队长 §aminecraftmc22 §e踢出了玩家 §ahugugiko
+[19:49:58] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7乐
+[19:49:59] [Client thread/INFO]: [CHAT]  
+ §b§l服务器娘§b o( =?ω?= )m
+   §e为了营造良好的游戏体验，游戏一律禁止§c嘲讽\辱骂\引战\挑衅恶意发言等
+   §e如有发现，轻则禁言，重则封禁，请洁身自好，提高个人道德修养！
+ 
+[19:50:07] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[0.0§4]§a伤害，他还剩§c?§4[20.0§4]§6?§4[4.0§4]§b§l▊M
+[19:50:09] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝AvengerFG§e被§c?§c灵梦红bili_linyi§e用§7[§e火球§7]§e射入虚空！§7(14.93米)
+[19:50:09] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[2.3§4]§a伤害，他还剩§c?§4[17.7§4]§6?§4[0.8§4]§b§l▊M
+[19:50:10] [Client thread/INFO]: [CHAT] 你对xingbeng说：喵喵~o( =∩ω∩= )m 别打我嘛！
+[19:50:10] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e被§c?§c灵梦红xingbeng§e打的呜呜叫！
+[19:50:10] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[1.2§4]§a伤害，他还剩§c?§4[16.5§4]§b§l▊M
+[19:50:10] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:10] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:10] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:10] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:15] [Client thread/INFO]: [CHAT] 无敌时间 6 秒，3秒后如攻击，无敌时间将消失！
+[19:50:15] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:50:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818621424
+[19:50:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:50:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:50:21] [Client thread/INFO]: Free: 4025142808 (4025.142808MB)
+[19:50:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818621424
+[19:50:22] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝AvengerFG§e一失足成千古恨！
+[19:50:24] [Client thread/ERROR]: Item entity 1285 has no item?!
+[19:50:26] [Client thread/INFO]: [CHAT] 购买失败，你缺少2级！
+[19:50:26] [Client thread/INFO]: [CHAT] 购买失败，你缺少2级！
+[19:50:26] [Client thread/INFO]: [CHAT] 购买失败，你缺少2级！
+[19:50:34] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[0.6§4]§a伤害，他还剩§c?§4[13.6§4]§6?§4[2.3§4]§b§l▊M
+[19:50:35] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[2.3§4]§a伤害，他还剩§c?§4[7.7§4]§b§l▊M
+[19:50:35] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[4.3§4]§a伤害，他还剩§c?§4[3.4§4]§b§l▊M
+[19:50:35] [Client thread/INFO]: [CHAT] 你对xingbeng说：喵喵~o( =∩ω∩= )m 别打我嘛！
+[19:50:35] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e被§c?§c灵梦红xingbeng§e狠狠拍死！
+[19:50:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:36] [Client thread/INFO]: [CHAT] §c?§c灵梦红xingbeng§e被§9?§9咲夜蓝hugugiko§e制裁！
+[19:50:36] [Client thread/ERROR]: Item entity 347 has no item?!
+[19:50:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:50:41] [Client thread/INFO]: [CHAT] 无敌时间 6 秒，3秒后如攻击，无敌时间将消失！
+[19:50:41] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:50:44] [Client thread/INFO]: [CHAT] hugugiko, hxc1818
+[19:50:45] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §a邀请成功,等待对方接受§c(60秒内)§a！
+[19:50:51] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §ahugugiko §e加入了队伍！
+[19:50:56] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7不是不要我嘛？
+[19:51:13] [Client thread/INFO]: [CHAT] §9[团队]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7不是不要我嘛？
+[19:51:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818681426
+[19:51:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:51:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:51:21] [Client thread/INFO]: Free: 3989024496 (3989.024496MB)
+[19:51:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818681426
+[19:51:24] [Client thread/INFO]: [CHAT] AvengerFG购买精制护甲
+[19:51:26] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f主播还在天天吃饭加头顶
+[19:51:28] [Client thread/INFO]: [CHAT] §6[全局]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §7
+[19:51:29] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝hugugiko§e被§c?§c灵梦红bili_linyi§e狠狠地踹下虚空！
+[19:51:32] [Client thread/INFO]: [CHAT] §6[全局]§6[?255]§f§a§l?正版§7[§e野王§7]§7§9hugugiko §8> §76
+[19:51:33] [Client thread/INFO]: [CHAT] §a对bili_linyi§a造成了§c?§4[1.5§4]§a伤害，他还剩§c?§4[18.5§4]§6?§4[4.0§4]§b§l▊M
+[19:51:37] [Client thread/INFO]: [CHAT] 你对bili_linyi说：喵喵~o( =∩ω∩= )m 别打我嘛！
+[19:51:37] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e被§c?§c灵梦红bili_linyi§e狠狠地踹下虚空！
+[19:51:37] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:51:37] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:51:37] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:51:38] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:51:42] [Client thread/INFO]: [CHAT] 无敌时间 6 秒，3秒后如攻击，无敌时间将消失！
+[19:51:42] [Client thread/INFO]: [CHAT] 目前游戏尚未开局5分钟，冲击剑暂时不可用！
+[19:51:44] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:51:44] [Client thread/INFO]: [CHAT] 
+[19:51:44] [Client thread/INFO]: [CHAT] 咲夜蓝 的床被 bili_linyi 挖爆！
+[19:51:44] [Client thread/INFO]: [CHAT] 
+[19:51:44] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:51:44] [Client thread/INFO]: [CHAT] 目前处于游戏10分钟内，即使无床，苟依然机会购买回春床恢复！
+[19:51:45] [Client thread/INFO]: [CHAT] §c?§c灵梦红bili_linyi§e被§9?§9咲夜蓝hugugiko§e打的汪汪叫！
+[19:51:46] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝hugugiko§e被§c?§c灵梦红bili_linyi§e殴打致死！§c[§l最终击杀§c]
+[19:51:47] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f?
+[19:51:48] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[3.2§4]§a伤害，他还剩§c?§4[11.0§4]§b§l▊M
+[19:51:48] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7bili_linyi §a> §f6
+[19:51:49] [Client thread/INFO]: [CHAT] §a对xingbeng§a造成了§c?§4[2.9§4]§a伤害，他还剩§c?§4[4.9§4]§b§l▊M
+[19:51:55] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f挂？
+[19:51:55] [Client thread/INFO]: [CHAT] §c?§c灵梦红xingbeng§e被§c?§c灵梦红xingbeng用§7[§e火球§7]§e炸飞了！
+[19:52:00] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7bili_linyi §a> §f什么挂
+[19:52:03] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f你不是死了吗？
+[19:52:07] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §fvape
+[19:52:09] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f怎么还能打我
+[19:52:12] [Client thread/INFO]: [CHAT] §6[全局]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §76
+[19:52:17] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7bili_linyi §a> §f这不正常吗
+[19:52:19] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f22你自己玩吧
+[19:52:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818741472
+[19:52:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:52:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:52:21] [Client thread/INFO]: Free: 3976312080 (3976.31208MB)
+[19:52:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818741472
+[19:52:21] [Client thread/INFO]: [CHAT] §6[全局]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §76
+[19:52:25] [Client thread/INFO]: [CHAT] 购买失败，你缺少4级！
+[19:52:25] [Client thread/INFO]: [CHAT] 你不能在基地内放置方块！
+[19:52:27] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §fA?
+[19:52:28] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f我不是本人
+[19:52:30] [Client thread/INFO]: [CHAT] §6[全局]§6[?367]§f§b§l?游戏主播§7§cbili_linyi §8> §7你死了又不是自动判定你死了
+[19:52:35] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f本人去吃饭了
+[19:52:40] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f还没吃完
+[19:52:43] [Client thread/INFO]: [CHAT] §6[全局]§6[?402]§f§a§l?正版§7[§e人形恶魂§7]§7§9minecraftmc22 §8> §76
+[19:52:48] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f6
+[19:52:49] [Client thread/INFO]: [CHAT] 你的队伍的床现在已经恢复！
+[19:52:49] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:52:49] [Client thread/INFO]: [CHAT] 
+[19:52:49] [Client thread/INFO]: [CHAT] 咲夜蓝 的床已被 AvengerFG 恢复！
+[19:52:49] [Client thread/INFO]: [CHAT] 
+[19:52:49] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:05] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f果然天天吃饭
+[19:53:11] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f22回来了我叫他给你发私信
+[19:53:18] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f退了先
+[19:53:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818801522
+[19:53:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:53:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:53:21] [Client thread/INFO]: Free: 3983961176 (3983.961176MB)
+[19:53:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818801522
+[19:53:23] [Client thread/INFO]: [CHAT] §c?§c灵梦红xingbeng§e被§c?§c灵梦红xingbeng§e用§7[§eTNT Pro Max Plus§7]§e射入虚空！§7(2.60米)
+[19:53:23] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §chugugiko §4退出了队伍！
+[19:53:25] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:25] [Client thread/INFO]: [CHAT] 
+[19:53:25] [Client thread/INFO]: [CHAT] 咲夜蓝 的床被 bili_linyi 挖爆！
+[19:53:25] [Client thread/INFO]: [CHAT] 
+[19:53:25] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:25] [Client thread/INFO]: [CHAT] 目前处于游戏10分钟内，即使无床，苟依然机会购买回春床恢复！
+[19:53:28] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝AvengerFG§e被§c?§c灵梦红bili_linyi§e殴打致死！§c[§l最终击杀§c]
+[19:53:34] [Client thread/INFO]: [CHAT] §e匹配 >> §a已将您加入匹配队列
+[19:53:35] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:35] [Client thread/INFO]: [CHAT] 
+[19:53:35] [Client thread/INFO]: [CHAT] 咲夜蓝 凉了！  挖床者： bili_linyi
+[19:53:35] [Client thread/INFO]: [CHAT] 
+[19:53:35] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:35] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:35] [Client thread/INFO]: [CHAT]  
+[19:53:35] [Client thread/INFO]: [CHAT]                   超级床の战争
+[19:53:35] [Client thread/INFO]: [CHAT]          胜利者 - 灵梦红
+[19:53:35] [Client thread/INFO]: [CHAT]         击杀榜第一名 - bili_linyi - 8
+[19:53:35] [Client thread/INFO]: [CHAT]         击杀榜第二名 - xingbeng - 2
+[19:53:35] [Client thread/INFO]: [CHAT]         击杀榜第三名 - hugugiko - 2
+[19:53:35] [Client thread/INFO]: [CHAT]      本局游戏VIP及以上双倍奖励加成的有  0 人
+[19:53:35] [Client thread/INFO]: [CHAT]  
+[19:53:35] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[19:53:35] [Client thread/INFO]: [CHAT] §9?§9咲夜蓝minecraftmc22§e步入永夜之黑暗！§c[§l最终击杀§c]
+[19:53:35] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:35] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:36] [Client thread/INFO]: [CHAT] §e匹配 >> §a匹配成功,正在连接到 §bBedwars-Hyp-17
+[19:53:36] [Client thread/INFO]: [CHAT] §3快速加入 >> §b寻找下一个可用游戏房间？ §e[§n请点击这里§e]
+[19:53:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:36] [Client thread/INFO]: [CHAT] 欢迎加入，请牢记游戏地址：Wdsj.net 邀请好友加入哟~
+[19:53:36] [Client thread/INFO]: [CHAT] minecraftmc22加入了游戏(2/32)！
+[19:53:36] [Client thread/INFO]: [CHAT] 提示：使用手上的物品选择你喜爱的资源类型！开局倒计时小于等于5秒或游戏开始后退出将会扣分！
+[19:53:36] [Client thread/INFO]: [CHAT] hxc1818加入了游戏(3/32)！
+[19:53:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:36] [Client thread/INFO]: [CHAT] 现在加入公会，享受全队免费游戏倍率加成~
+[19:53:36] [Client thread/INFO]: [CHAT] bili_linyi加入了游戏(4/32)！
+[19:53:36] [Client thread/INFO]: [CHAT] 基础金币倍率提升倍数至： 1.0
+[19:53:36] [Client thread/INFO]: [CHAT] 基础经验倍率提升倍数至： 1.0
+[19:53:36] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:37] [Client thread/INFO]: [CHAT] >>
+>> 热烈欢迎 ?游戏主播 bili_linyi 喵加入游戏~
+>>
+[19:53:37] [Config Saving Thread/INFO]: Saving mod profile to config: Vanilla
+[19:53:39] [Client thread/INFO]: [CHAT] LLa_QwQ加入了游戏(5/32)！
+[19:53:41] [Client thread/INFO]: [CHAT] 
+§e唔喵? 〒▽〒 人数不够? §b§n点击这里通知其他玩家吧~
+[19:53:43] [Client thread/INFO]: [CHAT] xingbeng加入了游戏(6/32)！
+[19:53:43] [Client thread/INFO]: [CHAT] xyjxh2加入了游戏(7/32)！
+[19:53:43] [Client thread/INFO]: [CHAT] xyjxh1加入了游戏(8/32)！
+[19:53:43] [Client thread/INFO]: [CHAT] xyjxh3加入了游戏(9/32)！
+[19:53:48] [Client thread/INFO]: [CHAT] §6[?367]§f§b§l?游戏主播§7bili_linyi §8> §76
+[19:53:50] [Client thread/INFO]: [CHAT] wufa加入了游戏(10/32)！
+[19:53:52] [Client thread/INFO]: [CHAT] jdhbda加入了游戏(11/32)！
+[19:53:57] [Client thread/INFO]: [CHAT] §6[?35]§f§7wufa §8> §7小拉坤
+[19:53:57] [Client thread/INFO]: [CHAT] AWFZY加入了游戏(12/32)！
+[19:54:00] [MC Skin Thread 0/ERROR]: Textures payload has been tampered with (signature invalid)
+[19:54:01] [Client thread/INFO]: [CHAT] §6[?367]§f§b§l?游戏主播§7bili_linyi §8> §76
+[19:54:07] [Client thread/INFO]: [CHAT] -------- Wdsj.Net - 好友系统 --------
+[19:54:07] [Client thread/INFO]: [CHAT]  > /hy js <玩家>  ?  接受好友邀请
+[19:54:07] [Client thread/INFO]: [CHAT]  > /hy lb [args]  ?  好友列表
+[19:54:07] [Client thread/INFO]: [CHAT]  > /hy sc <玩家>  ?  删除好友
+[19:54:07] [Client thread/INFO]: [CHAT]  > /hy tj <玩家>  ?  添加好友
+[19:54:07] [Client thread/INFO]: [CHAT]  > /hy yj <玩家> <消息>  ?  发送游戏邮件
+[19:54:07] [Client thread/INFO]: [CHAT]  > 你的好友上限为20人！开通会员或者购买解锁更多好友位！
+[19:54:07] [Client thread/INFO]: [CHAT]  > /fm快速私聊 /fr回复和继续聊天 /fg全局聊天
+[19:54:07] [Client thread/INFO]: [CHAT]  > 私聊可使用TAB补全好友ID
+[19:54:07] [Client thread/INFO]: [CHAT] --------------------------------------
+[19:54:10] [Client thread/INFO]: [CHAT] 好友列表:
+[19:54:10] [Client thread/INFO]: [CHAT] §a ● §f§a§fhugugiko §a[§n组队邀请§a] §e[§n私聊§e]
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7114514asdfqw
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7166666
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7#幽月浮云半倾
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7ISTIA
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7MLE
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7My_Names_YISUI
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7Nyammmmmmmm
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7RyanYin
+[19:54:10] [Client thread/INFO]: [CHAT] §7 ● §7§7§7TianmuTNT
+[19:54:10] [Client thread/INFO]: [CHAT] 当前第1/2页,输入/hy lb <页数>来翻页
+[19:54:10] [Client thread/INFO]: [CHAT] 在线: 1/20 上限:20
+[19:54:21] [Client thread/INFO]: -- Start Memory Debug --Interval: 1681818861523
+[19:54:21] [Client thread/INFO]: Max: 6710886400 (6710.8864MB)
+[19:54:21] [Client thread/INFO]: Total: 6710886400 (6710.8864MB)
+[19:54:21] [Client thread/INFO]: Free: 3965367000 (3965.367MB)
+[19:54:21] [Client thread/INFO]: -- End Memory Debug --Interval: 1681818861523
+[19:54:21] [Client thread/INFO]: [CHAT] §6[?10]§f§7jdhbda §8> §7有没有用手机的
+[19:54:22] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f我觉得他本人比这个演员更菜
+[19:54:22] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7minecraftmc22 §a> §femm
+[19:54:25] [Client thread/INFO]: [CHAT] §3快速加入 >> §b§l空岛战争-§c疯狂单人 §a等待中§e(1/12)~ §e§n点击加入 §7(LFMC12§7的广播)
+[19:54:35] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §a邀请成功,等待对方接受§c(60秒内)§a！
+[19:54:35] [Client thread/INFO]: [CHAT] §6[?10]§f§7jdhbda §8> §7手机好难喵作
+[19:54:39] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §ahugugiko §e加入了队伍！
+[19:54:41] [Client thread/INFO]: [CHAT] loophero加入了游戏(13/32)！
+[19:54:41] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §fen?
+[19:54:44] [Client thread/INFO]: [CHAT] wufa退出游戏！
+[19:54:44] [Client thread/INFO]: [CHAT] YdxoxbY加入了游戏(13/32)！
+[19:54:45] [Client thread/INFO]: [CHAT] §6[?354]§f§7[§e射手♂§7]§7loophero §8> §7zq
+[19:54:45] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f《追着我刷人头》
+[19:54:46] [Client thread/INFO]: [CHAT] hxc1818, hugugiko
+[19:54:46] [Client thread/INFO]: [CHAT] hxc1818, hugugiko
+[19:54:47] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hugugiko §a> §f说了不是br
+[19:54:47] [Client thread/INFO]: [CHAT] hxc1818, hugugiko
+[19:54:47] [Client thread/INFO]: [CHAT] §3快速加入 >> §b§l新起床-§c单人 §a等待中§e(3/8)~ §e§n点击加入 §7(#鬼冢丶故安§7的广播)
+[19:54:49] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §e队长转让成功！
+[19:54:49] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §ahugugiko §e成为了新队长！
+[19:54:56] [Client thread/INFO]: [CHAT] §6[?354]§f§7[§e射手♂§7]§7loophero §8> §7qz
+[19:54:58] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7hugugiko §a> §f你给我也没用
+[19:54:59] [Client thread/INFO]: [CHAT]  
+ §b§l服务器娘§b o( =?ω?= )m
+   §e大厅中§f§lSHIFT+右键其他玩家§e即可打开互动菜单哟~
+   §e快速组队、加好友
+ 
+[19:54:59] [Client thread/INFO]: [CHAT] spirgson加入了游戏(14/32)！
+[19:54:59] [Client thread/INFO]: [CHAT] wufa加入了游戏(15/32)！
+[19:55:02] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7hxc1818 §a> §f我说我觉得他本人比这个演员更菜
+[19:55:02] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7hugugiko §a> §f我不是br
+[19:55:07] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队员] §7§6§c§a§6§e§7minecraftmc22 §a> §f666
+[19:55:10] [Client thread/INFO]: [CHAT] §6[?354]§f§7[§e射手♂§7]§7loophero §8> §7:
+[19:55:11] [Client thread/INFO]: [CHAT] §6[§c队§a伍§6] §e[队长] §7§6§c§a§6§e§7hugugiko §a> §f爱信不信
+[19:55:14] [Client thread/INFO]: [CHAT] §3夜梦组队 >> §c你所在的队伍已解散
